@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6511
 description: Bob and Betty learn about life and work at the seashore during a summer
   vacation with Captain Ben Hawes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44629#The-Seashore-BookBob-and-Betty-s-Summer-with-Captain-Hawes
 gutenberg_issued: '2014-01-08'
 gutenberg_type: Text
 identifiers:
